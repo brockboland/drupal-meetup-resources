@@ -17,6 +17,15 @@ Advice from seasoned Drupal Meetup organizers
 - Contact local companies about possibly sponsoring the event, to provide pizza and drinks or books to give away.
 - Choose an accessible location: make sure it will be easy for people to get to the event (close to public transit, available parking, etc) and that it will be accessible to those with disabilities.
 
+Promotional advice
+------------------
+Top takeaway tips from Drupal meetup organizers on how to market your meetup.
+
+- “Posting just on Twitter is simply not enough”
+- “Attendance increased once we started using Meetup.com”
+- “Many of the local Drupal users didn't even know about g.d.o.”
+- “Don’t forget good old fashioned word of mouth”
+- “We always announce our meetup at other meetups we attend.”
 
 Background
 ----------
@@ -111,13 +120,3 @@ What is interesting, and an opportunity is that very few groups use Email. The D
 - 7% LinkedIn
 - 5% Mailchimp
 - 2% Google email list
-
-Promotion
----------
-Top takeaway tips from Drupal meetup organizers on how to market your meetup.
-
-- “Posting just on Twitter is simply not enough”
-- “Attendance increased once we started using Meetup.com”
-- “Many of the local Drupal users didn't even know about g.d.o.”
-- “Don’t forget good old fashioned word of mouth”
-- “We always announce our meetup at other meetups we attend.”
