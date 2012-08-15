@@ -27,6 +27,21 @@ Top takeaway tips from Drupal meetup organizers on how to market your meetup.
 - “Don’t forget good old fashioned word of mouth”
 - “We always announce our meetup at other meetups we attend.”
 
+Promoting meetups
+-----------------
+
+% of meetups using the channel
+What is interesting, and an opportunity is that very few groups use Email. The DrupalCon email list typically has a 67% open rate. Meetups should use email to communicate as it clearly is highly effective.
+
+- 76% Groups.drupal.org
+- 56% Twitter
+- 37% Facebook
+- 41% Meetup.com
+- 34% Meetups own web site
+- 7% LinkedIn
+- 5% Mailchimp
+- 2% Google email list
+
 Background
 ----------
 
@@ -105,18 +120,3 @@ Biggest Groups by frequency of meet
 - 80 people Twice a Month
 - 90 people Monthly
 - 90 people Every 2 Months
-
-Promoting meetups
------------------
-
-% of meetups using the channel
-What is interesting, and an opportunity is that very few groups use Email. The DrupalCon email list typically has a 67% open rate. Meetups should use email to communicate as it clearly is highly effective.
-
-- 76% Groups.drupal.org
-- 56% Twitter
-- 37% Facebook
-- 41% Meetup.com
-- 34% Meetups own web site
-- 7% LinkedIn
-- 5% Mailchimp
-- 2% Google email list
