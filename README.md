@@ -22,6 +22,7 @@ Promotional advice
 Top takeaway tips from Drupal meetup organizers on how to market your meetup.
 
 - “Posting just on Twitter is simply not enough”
+- “Make announcements early so that there is time for word to spread and calendars are not already full”
 - “Attendance increased once we started using Meetup.com”
 - “Many of the local Drupal users didn't even know about g.d.o.”
 - “Don’t forget good old fashioned word of mouth”
@@ -31,7 +32,6 @@ Promoting meetups
 -----------------
 
 % of meetups using the channel
-What is interesting, and an opportunity is that very few groups use Email. The DrupalCon email list typically has a 67% open rate. Meetups should use email to communicate as it clearly is highly effective.
 
 - 76% Groups.drupal.org
 - 56% Twitter
@@ -41,6 +41,9 @@ What is interesting, and an opportunity is that very few groups use Email. The D
 - 7% LinkedIn
 - 5% Mailchimp
 - 2% Google email list
+
+Observation: What is interesting is that very few groups use Email. It is well established that email marketing enjoys the most success of any channel. Evidence within Drupal confirms this. The DrupalCon email list typically has a 67% open rate.
+Conclusion: In addition to existing channesl Meetups should establish an email list to communicate as it clearly is highly effective.
 
 Background
 ----------
