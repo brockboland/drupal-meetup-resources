@@ -29,10 +29,10 @@ Attendance ranged from 3 - 90
 How often do they meet?
 
 How many meetups - how often they meet
-Weekly          1
-Twice a Month   9
-Monthly         75
-Every 2 Months  8
+- Weekly = 1
+- Twice a Month = 9
+- Monthly         75
+- Every 2 Months  8
 
 From where did the responses come?
 
