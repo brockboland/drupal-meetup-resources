@@ -37,57 +37,63 @@ How many meetups - how often they meet
 From where did the responses come?
 
 How many meetups - Country
-37 USA
-10 UK
-9 Australia
-5 Germany
-5 Malaysia
-3 Austria
-3 Netherlands
-3 Switzerland
-2 NZ
-2 Phillippines
-2 Belgium
-2 Canada
-2 France
-2 India
-1 China
-1 Costa Rica
-1 Denmark
-1 Ireland
-1 Italy
-1 Jordan
-1 Singapore
-1 Slovenia
-1 Spain
+- 37 USA
+- 10 UK
+- 9 Australia
+- 5 Germany
+- 5 Malaysia
+- 3 Austria
+- 3 Netherlands
+- 3 Switzerland
+- 2 NZ
+- 2 Phillippines
+- 2 Belgium
+- 2 Canada
+- 2 France
+- 2 India
+- 1 China
+- 1 Costa Rica
+- 1 Denmark
+- 1 Ireland
+- 1 Italy
+- 1 Jordan
+- 1 Singapore
+- 1 Slovenia
+- 1 Spain
 
-Frequency - how often do you meet?
+Frequency - how often do they meet?
+----------------------------------
 
-1 Weekly
-9 Twice a Month
-75 Monthly
-8 Every 2 Months
+- 1 Weekly
+- 9 Twice a Month
+- 75 Monthly
+- 8 Every 2 Months
+
 Average attendance
+------------------
 
 Number of people broken down by how often the meet is held
 
-10 Weekly
-20 Twice a Month
-19 Monthly
-28 Every 2 Months
+- 10 Weekly
+- 20 Twice a Month
+- 19 Monthly
+- 28 Every 2 Months
 
 Modal attendance (mode average)
+-------------------------------
 
-10 Weekly
-10 Twice a Month
-15 Monthly
-25 Every 2 Months
+- 10 Weekly
+- 10 Twice a Month
+- 15 Monthly
+- 25 Every 2 Months
 
-Biggest
-10 people - Weekly
-80 people - Twice a Month
-90 people - Monthly
-90 people - Every 2 Months
+Biggest Groups by frequency of meet
+-----------------------------------
+
+- 10 people Weekly
+- 80 people Twice a Month
+- 90 people Monthly
+- 90 people Every 2 Months
 
 Promoting meetups
 -----------------
@@ -95,20 +101,21 @@ Promoting meetups
 % of meetups using the channel
 What is interesting, and an opportunity is that very few groups use Email. The DrupalCon email list typically has a 67% open rate. Meetups should use email to communicate as it clearly is highly effective.
 
-76% Groups.drupal.org
-56% Twitter
-37% Facebook
-41% Meetup.com
-34% Meetups own web site
-7% LinkedIn
-5% Mailchimp
-2% Google email list
+- 76% Groups.drupal.org
+- 56% Twitter
+- 37% Facebook
+- 41% Meetup.com
+- 34% Meetups own web site
+- 7% LinkedIn
+- 5% Mailchimp
+- 2% Google email list
 
 Promotion
 ---------
+Top takeaway tips from Drupal meetup organizers on how to market your meetup.
 
-“Posting just on Twitter is simply not enough”
-“Attendance increased once we started using Meetup.com”
-“Many of the local Drupal users didn't even know about g.d.o.”
-“Don’t forget good old fashioned word of mouth”
-“We always announce our meetup at other meetups we attend.”
+- “Posting just on Twitter is simply not enough”
+- “Attendance increased once we started using Meetup.com”
+- “Many of the local Drupal users didn't even know about g.d.o.”
+- “Don’t forget good old fashioned word of mouth”
+- “We always announce our meetup at other meetups we attend.”
