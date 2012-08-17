@@ -43,7 +43,7 @@ Promoting meetups
 - 2% Google email list
 
 Observation: What is interesting is that very few groups use Email. It is well established that email marketing enjoys the most success of any channel. Evidence within Drupal confirms this. The DrupalCon email list typically has a 67% open rate.
-Conclusion: In addition to existing channesl Meetups should establish an email list to communicate as it clearly is highly effective.
+Conclusion: In addition to existing channels Meetups should establish an email list to communicate as it clearly is highly effective.
 
 Background
 ----------
