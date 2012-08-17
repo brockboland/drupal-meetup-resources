@@ -49,7 +49,7 @@ Background
 ----------
 
 93 Meetups Responded
-3295 In total go to the meetups which repsonded
+3295 In total go to the meetups which responded
 
 Attendance ranged from 3 - 90
 
@@ -75,7 +75,7 @@ How many meetups meet in the Country (which responded)
 - 3 Netherlands
 - 3 Switzerland
 - 2 NZ
-- 2 Phillippines
+- 2 Philippines
 - 2 Belgium
 - 2 Canada
 - 2 France
